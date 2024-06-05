@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Jacard Similarity",
+    "data science",
+    "Find Best Match"
+  ],
+  "author": "Sharjeel Baig",
   "license": "MIT"
 }
