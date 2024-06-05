@@ -42,6 +42,7 @@ console.log(bestResponse); // Outputs: My uncle is fine!
 # License ©
 
 [MIT](https://raw.githubusercontent.com/Sharjeelbaig/find-best-match/main/LICENSE)
+[MIT](https://raw.githubusercontent.com/Sharjeelbaig/find-best-match/main/LICENCE)
 
 # Author 👩‍💻
 
