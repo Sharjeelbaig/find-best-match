@@ -21,4 +21,6 @@ function findBestMatch(X, y, inputText) {
   return bestMatch;
 }
 
-module.exports = findBestMatch;
+// module.exports = findBestMatch;
+
+export default findBestMatch;
